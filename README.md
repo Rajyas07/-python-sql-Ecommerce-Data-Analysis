@@ -35,13 +35,4 @@ file details
 - 📉 **YoY Growth Rate (Line + KDE)**  
 - 🏆 **Top Customers (Ranking by Year)**  
 
-*(see `outputs/` folder for saved graphs)*
-
----
-
-## 🚀 Setup & Usage
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/<your-username>/Ecommerce-Analysis.git
-cd Ecommerce-Analysis
+*(see `outputs/` folder for saved graphs)
